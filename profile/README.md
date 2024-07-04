@@ -63,4 +63,10 @@ Join our community for support and discussions:
 - [SAMA on Medium](https://medium.com/sama-communications)
 - Discord Server - TBA
 
-Stay connected and contribute to making SAMA even better!
+## Help us!
+
+Stay connected and contribute to making SAMA even better! Any thoughts, feedback is welcome! Please create a GitHub issue for any feedback you have.
+
+Want to support us with [some coffee?](https://www.buymeacoffee.com/khomenkoigor). Will be much appreciated!
+
+
