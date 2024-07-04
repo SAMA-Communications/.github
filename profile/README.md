@@ -1,6 +1,6 @@
 # SAMA - Simple but Advanced Messaging Alternative
 
-Welcome to the official GitHub organization for SAMA (Simple but Advanced Messaging Alternative)! SAMA is an open-source chat server designed for secure, efficient, and real-time communication across mobile and web applications.
+Welcome to the official GitHub organization for SAMA (Simple but Advanced Messaging Alternative) chat server! SAMA is an open-source chat server designed for secure, efficient, and real-time communication across mobile and web applications.
 
 <img width="1282" alt="ClientImage" src="https://github.com/SAMA-Communications/sama-client/assets/98953475/fe8dfd1c-462d-46d2-aa24-5792b36e23f2">
 
