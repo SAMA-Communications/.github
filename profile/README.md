@@ -42,6 +42,8 @@ https://github.com/SAMA-Communications/sama-client?tab=readme-ov-file#developmen
 
 ## Documentation
 Comprehensive documentation for SAMA is available to help you understand and integrate the platform effectively. Check out the following resources:
+- [Introducing SAMA](https://medium.com/sama-communications/introducing-sama-simple-but-advanced-messaging-alternative-chat-server-524a532e2040)
+- [What is SAMA](https://medium.com/sama-communications/what-is-sama-a6d9045fd69a)
 - [API Documentation](https://github.com/SAMA-Communications/sama-server/blob/main/docs/API.md)
 - [Deployment Guide - server](https://github.com/SAMA-Communications/sama-server?tab=readme-ov-file#development)
 - [Deployment Guide - client](https://github.com/SAMA-Communications/sama-client?tab=readme-ov-file#development)
@@ -58,6 +60,7 @@ We welcome contributions from the community! To contribute, please follow these 
 ## Community and Support
 Join our community for support and discussions:
 - [GitHub Issues - SAMA server](https://github.com/SAMA-Communications/sama-server/issues), [GitHub Issues - SAMA client](https://github.com/SAMA-Communications/sama-client/issues)
+- [SAMA on Medium](https://medium.com/sama-communications)
 - Discord Server - TBA
 
 Stay connected and contribute to making SAMA even better!
