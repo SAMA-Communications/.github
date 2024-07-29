@@ -40,6 +40,10 @@ https://github.com/SAMA-Communications/sama-server?tab=readme-ov-file#developmen
 
 https://github.com/SAMA-Communications/sama-client?tab=readme-ov-file#development
 
+OR
+
+access public cloud https://app.samacloud.io
+
 ## Documentation
 Comprehensive documentation for SAMA is available to help you understand and integrate the platform effectively. Check out the following resources:
 - [Introducing SAMA](https://medium.com/sama-communications/introducing-sama-simple-but-advanced-messaging-alternative-chat-server-524a532e2040)
