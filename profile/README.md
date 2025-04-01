@@ -36,13 +36,17 @@ To get started with SAMA, follow these steps:
 
 https://github.com/SAMA-Communications/sama-server?tab=readme-ov-file#development
 
-2. **Run SAMA client**:
+2. **Run SAMA web client**:
 
 https://github.com/SAMA-Communications/sama-client?tab=readme-ov-file#development
 
 OR
 
 access public cloud https://app.samacloud.io
+
+3. **Run SAMA mobile client**:
+
+https://github.com/SAMA-Communications/sama-client-flutter?tab=readme-ov-file#development
 
 ## Documentation
 Comprehensive documentation for SAMA is available to help you understand and integrate the platform effectively. Check out the following resources:
