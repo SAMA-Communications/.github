@@ -30,40 +30,23 @@ SAMA provides a robust and easy-to-use platform for real-time messaging. Built w
 The whole SAMA stack can be tested using https://app.samacloud.io public cloud.
 
 ## Getting Started
-To get started with SAMA, follow these steps:
 
-1. **Run SAMA server**:
+[SAMA/quick-start](https://docs.samacloud.io/overview/quick-start/)
 
-https://github.com/SAMA-Communications/sama-server?tab=readme-ov-file#development
-
-2. **Run SAMA web client**:
-
-https://github.com/SAMA-Communications/sama-client?tab=readme-ov-file#development
-
-OR
-
-access public cloud https://app.samacloud.io
-
-3. **Run SAMA mobile client**:
-
-https://github.com/SAMA-Communications/sama-client-flutter?tab=readme-ov-file#development
 
 ## Documentation
 Comprehensive documentation for SAMA is available to help you understand and integrate the platform effectively. Check out the following resources:
 - [Introducing SAMA](https://medium.com/sama-communications/introducing-sama-simple-but-advanced-messaging-alternative-chat-server-524a532e2040)
 - [What is SAMA](https://medium.com/sama-communications/what-is-sama-a6d9045fd69a)
-- [API Documentation](https://github.com/SAMA-Communications/sama-server/blob/main/docs/API.md)
-- [Deployment Guide - server](https://github.com/SAMA-Communications/sama-server?tab=readme-ov-file#development)
+- [API Documentation](https://docs.samacloud.io/)
+- [Deployment Guide - server](https://docs.samacloud.io/deployment/docker-server-setup/)
 - [Deployment Guide - client](https://github.com/SAMA-Communications/sama-client?tab=readme-ov-file#development)
-- [Roadmap](https://github.com/SAMA-Communications/sama-server/blob/main/docs/ROADMAP.md)
+- [Roadmap](https://docs.samacloud.io/overview/roadmap/)
 
 ## Contributing
-We welcome contributions from the community! To contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+We welcome contributions from the community! 
+
+[SAMA/contributing](https://docs.samacloud.io/overview/contributing/)
 
 ## Community and Support
 Join our community for support and discussions:
