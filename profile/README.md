@@ -1,4 +1,4 @@
-# SAMA - Next-Gen open source chat server
+# SAMA - Next-gen open source Chat server
 
 Welcome to the official GitHub organization for SAMA (Simple but Advanced Messaging Alternative) chat server! SAMA is an open-source chat server designed for secure, efficient, and real-time communication across mobile and web applications.
 
